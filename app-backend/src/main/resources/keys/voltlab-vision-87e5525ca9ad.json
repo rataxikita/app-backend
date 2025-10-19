@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voltlab-vision",
+  "private_key_id": "87e5525ca9adc65a72d4aebe42ffe29929dbcb18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtYgoShWKfsATv\n3NU7OTKs85eABK+p4W7sBKAm6k3A+/A0bZXlnQEMou4lBeD58o5uiM0RwrPOq4ja\n4mz5Vg8Ug4+/VMar7LdJk8xbwtur2FRCabxWN5M9TufgsKOQWwotjRwDi6Gv3pDQ\nkdvtNSLwjY2pGudpGxHYFgYQQ94lmW+oyFPGG/vRScWwqmrhLhmS4PnAOxdXwYJF\nlr1n18RzgeYE1dqdOEns7wfWTUiUlGpr9OnJSd0fbtmfN/N6mTdv6EAH6Ahck20K\nCuXjcqZkLPLwqSDIWsGYG+Pj01uCoMjxbhR0+zcLxpxcURWHmddueHTl2hPQZ+0N\nYJx+agllAgMBAAECggEAD1f6g7aVqoOZgD+nCClw7GDXQq9He211k0H6iU8ZZ+9z\ny7P5/Lq2/c8Ka7DYPs5iH/KP0VdNccf44cQBeFRPG9Xjuf8u4MafVs3TWziEl7Ha\njREN54ReDaImv5nqM6t23F6dQMwR2D5GSwrpb1XRPIAObg1xNro8S0bxrO1QoruK\ny6tnuGZe8Z0hWzjDD+GgJ2c8vBL/jN1VY9lIPQibCiAIpI+Md2zq93dOeH77kqH3\nP359Z0rclSKnyDcHqXCsQg2VyTIePaIizjpUBDNToHf/VuYBOg6rL724aCK3ykyp\nu+72Ao7niOfW9VSgpmsiD44o9TdCkjQeqQtSJpkkEQKBgQDgF6axmPLpC1u5poU1\n1Wq1H4LP6evqZvZeng8tpY+riX3AkPbTDSSVzOu70b10zXbOBrZ/3t8vvMSD4EOU\nUYVzS/nGqAulgVQMCaKB/DxkWr9+fKOcSfKRqiBEfVKWbUhUlnS6PcdEOz376pVN\nwBL3CLkOCBqfqSL+gijTJbh49QKBgQDGEf0fqdzLqiEpiug0WCwL3yxSzqbalOvs\nhtjwxn4qVtQkuFtTfAVAqQ4UtVJkgdj3u810EQFaqA3ApbQv0mIBnf8C984ysFO4\nEswRvFCgysEp3IpfeAASmklvRbOcdoKpaD2P3ePGga71B98SL6PmP6rVAvhe0w2W\nIrIUDoPIsQKBgQCvvHyCPEMK1Vh6kAdZf2NuZSbN7FGRgmtlKikXEAZKbMmMcWLP\ngjgVrh2ULliYN+UajxMh1mNK6YtnLEFzGDdCgut/ihuQEIsb4ZZqv6eQv8X66L3Z\n+/fZmgQyEeHpjAw0IcWqpHYXoSnr3Dx4O8/joRiW024llZuW4fYoGCXB3QKBgAkG\nRMwuhxrYc45a/91yrv8TegeD1uJaqq0qL7Q4twLi1eOearrRCcQ6b6PN5yUhLWuM\nKP5C0Bb7VTUT17PeGA0Oz9GozMJOemIGqTmdpObOliJ8I+nZo9c1JGdne5mDZMyn\nLTbi2z/uJLSRWT6Q4RzahcQS0JIxd4sBpa94QdThAoGAb8x9q17SOjAh/NBfjyEJ\nlWYtsbJtsL/5UBtaW+eDtjpxg9EJumzt5v+exKCjxhyt0o77zOwXL/MHNwSP5PQN\ncnUPrjChxLJ7FkKW9AZJ6yk+/twmFxH3uc6QAqgChcWnyCrznXu6dTbHeGKfkVqS\nMmMzVhxtF+lRvX6TknomudA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "voltlab-vision-service@voltlab-vision.iam.gserviceaccount.com",
+  "client_id": "110199832128984345224",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voltlab-vision-service%40voltlab-vision.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
